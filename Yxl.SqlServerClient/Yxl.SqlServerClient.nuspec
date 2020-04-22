@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://licenses.nuget.org/Apache-2.0</licenseUrl>
+    <projectUrl>https://github.com/yxl-net/Yxl.SqlClient/tree/master/Yxl.SqlServerClient</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/yxl-net/javascript-packages/master/imgs/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%9B%BE%E7%89%87.jpg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>ADO.NET 轻巧 便捷</tags>
+  </metadata>
+</package>

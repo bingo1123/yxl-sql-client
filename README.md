@@ -12,6 +12,8 @@
 	1. 访问MySQL
 + [Yxl.PostgreSqlClient](Yxl.MySqlClient/README.md)
 	1. 访问PostgreSql
++ [Yxl.SQLiteClient](Yxl.SQLiteClient/README.md)
+	1. 访问SQLite
 # 备注
 如发现错误或提建议，请[提交 issue](https://github.com/yxl-net/Yxl.SqlClient/issues)或发送邮件到  
 ## 996986842@qq.com

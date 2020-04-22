@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29519.87
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{77237B2C-B63D-42D7-8654-D9702B074574}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yxl.Test", "Yxl.Test\Yxl.Test.csproj", "{77237B2C-B63D-42D7-8654-D9702B074574}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yxl.SqlServerClient", "Yxl.SqlServerClient\Yxl.SqlServerClient.csproj", "{3FA24010-CB59-443E-A801-1EC617E8D0F8}"
 EndProject
@@ -12,6 +12,13 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yxl.MySqlClient", "Yxl.MySqlClient\Yxl.MySqlClient.csproj", "{B7329C40-D6BF-4B20-B5C5-38983DCF140B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yxl.PostgreSqlClient", "Yxl.PostgreSqlClient\Yxl.PostgreSqlClient.csproj", "{E16FC6DE-956C-43F1-8FFC-6D07130F13FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yxl.SQLiteClient", "Yxl.SQLiteClient\Yxl.SQLiteClient.csproj", "{91A363C3-0D3A-4367-931E-2433B9C49128}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{893B482D-44AD-41B2-BC0B-76FDC2A4F184}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +46,10 @@ Global
 		{E16FC6DE-956C-43F1-8FFC-6D07130F13FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E16FC6DE-956C-43F1-8FFC-6D07130F13FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E16FC6DE-956C-43F1-8FFC-6D07130F13FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91A363C3-0D3A-4367-931E-2433B9C49128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91A363C3-0D3A-4367-931E-2433B9C49128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91A363C3-0D3A-4367-931E-2433B9C49128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91A363C3-0D3A-4367-931E-2433B9C49128}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
